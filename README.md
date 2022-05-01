@@ -1,5 +1,6 @@
 # Application Name
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b28a284-f5c8-4859-80d9-bda0b8acf4f8/deploy-status)](https://app.netlify.com/sites/js-quick-quiz/deploys)
 ![quiz](quiz.png)
 
 ### App Name - Quick Quiz
